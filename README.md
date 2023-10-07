@@ -1,4 +1,6 @@
 # firstocode
 This is my first experience of learning Git Hub.
 <br>
-auuhor kishan
+AUTHOR - Kishan singh 
+
+
